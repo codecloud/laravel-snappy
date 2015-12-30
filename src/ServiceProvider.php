@@ -1,4 +1,4 @@
-<?php namespace Barryvdh\Snappy;
+<?php namespace CodeCloud\SnappyLaravel;
 
 use Illuminate\Support\ServiceProvider as BaseServiceProvider;
 

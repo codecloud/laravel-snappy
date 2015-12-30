@@ -1,6 +1,6 @@
-<?php namespace Barryvdh\Snappy;
+<?php namespace CodeCloud\SnappyLaravel;
 
-use Knp\Snappy\Pdf;
+use CodeCloud\Snappy\Pdf;
 use Illuminate\Filesystem\Filesystem;
 
 class IlluminateSnappyPdf extends Pdf {

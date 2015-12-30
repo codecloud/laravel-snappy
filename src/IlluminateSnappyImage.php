@@ -1,6 +1,6 @@
-<?php namespace Barryvdh\Snappy;
+<?php namespace CodeCloud\SnappyLaravel;
 
-use Knp\Snappy\Image;
+use CodeCloud\Snappy\Image;
 use Illuminate\Filesystem\Filesystem;
 
 class IlluminateSnappyImage extends Image {

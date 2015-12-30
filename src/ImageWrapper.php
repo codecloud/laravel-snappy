@@ -1,7 +1,7 @@
-<?php namespace Barryvdh\Snappy;
+<?php namespace CodeCloud\SnappyLaravel;
 
 use Illuminate\Http\Response;
-use Knp\Snappy\Image as SnappyImage;
+use CodeCloud\Snappy\Image as SnappyImage;
 use Illuminate\Support\Facades\View;
 use Symfony\Component\HttpFoundation\StreamedResponse;
 

@@ -1,7 +1,7 @@
-<?php namespace Barryvdh\Snappy;
+<?php namespace CodeCloud\SnappyLaravel;
 
 use Illuminate\Http\Response;
-use Knp\Snappy\Pdf as SnappyPDF;
+use CodeCloud\Snappy\Pdf as SnappyPDF;
 use Illuminate\Support\Facades\View;
 use Symfony\Component\HttpFoundation\StreamedResponse;
 

@@ -13,11 +13,11 @@
         "php": ">=5.4.0",
         "illuminate/support": "5.0.x|5.1.x|5.2.x",
         "illuminate/filesystem": "5.0.x|5.1.x|5.2.x",
-        "codelcoud/knp-snappy": "*"
+        "codecloud/snappy": "dev-master"
     },
     "autoload": {
         "psr-4": {
-            "Barryvdh\\Snappy\\": "src/"
+            "CodeCloud\\LaravelSnappy\\": "src/"
         }
     },
     "extra": {
@@ -25,5 +25,11 @@
             "dev-master": "0.2-dev"
         }
     },
-    "minimum-stability": "dev"
+    "minimum-stability": "dev",
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/codecloud/snappy"
+        }
+    ]
 }
