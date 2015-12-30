@@ -1,5 +1,5 @@
 <?php
-namespace CodeCloud\SnappyLaravel\Facades;
+namespace CodeCloud\LaravelSnappy\Facades;
 
 use Illuminate\Support\Facades\Facade as BaseFacade;
 

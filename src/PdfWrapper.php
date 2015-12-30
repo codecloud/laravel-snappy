@@ -1,4 +1,4 @@
-<?php namespace CodeCloud\SnappyLaravel;
+<?php namespace CodeCloud\LaravelSnappy;
 
 use Illuminate\Http\Response;
 use CodeCloud\Snappy\Pdf as SnappyPDF;

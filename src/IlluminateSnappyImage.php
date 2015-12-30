@@ -1,4 +1,4 @@
-<?php namespace CodeCloud\SnappyLaravel;
+<?php namespace CodeCloud\LaravelSnappy;
 
 use CodeCloud\Snappy\Image;
 use Illuminate\Filesystem\Filesystem;
